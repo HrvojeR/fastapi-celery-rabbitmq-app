@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+*.venv
+
+# IDE
+.idea/
+.vscode/
+
+# Python build files
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
